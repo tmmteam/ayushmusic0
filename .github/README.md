@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamProBots/Clonify"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Teamtmm/ayushmusic"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br />
 
@@ -94,9 +94,9 @@ The Clonify offers a range of commands to enhance your music listening experienc
 | `/queue`                | Display the list of songs in the queue.     |
 | `/clone <bot token>`    | Clone music bot.                            |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/falcon_music_roBot).
 
-**Note** - Go to [Reload.py](https://github.com/TeamProBots/Clonify/blob/master/Clonify/plugins/tools/reload.py) then change my ID Number.
+**Note** - Go to [Reload.py](https://github.com/Teamtmm/ayushmusic/blob/master/Clonify/plugins/tools/reload.py) then change my ID Number.
 
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -106,11 +106,11 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 </h3>
 
 <p align="center">
-<a href="https://t.me/ProBotGc"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/tmm_support_chat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/ProBotts"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/FrozenTools"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <br />
