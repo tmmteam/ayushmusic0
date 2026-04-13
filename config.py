@@ -17,9 +17,9 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","moh_maya_official")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "FALCON_MUSIC_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MusicStream_roBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "FALCON X MUSIC ")
+BOT_NAME = getenv("BOT_NAME" , "MUSIC X STREAM ")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "moh_maya_official")
 # ---------------------------------------------------------
@@ -54,12 +54,12 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/tmmteam/ayushmusic")
+SOURCE = getenv("SOURCE", "https://github.com/tmmteam/ayushmusic0")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/tmmteam/ayushmusic",
+    "https://github.com/tmmteam/ayushmusic0",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )
@@ -68,8 +68,6 @@ GIT_TOKEN = getenv(
 # --------------------------------------------------------------------
 # --------------------------------------------------------------------
 
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", "30DxNexGenBots7dfa1a") # youtube song api key, 
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
