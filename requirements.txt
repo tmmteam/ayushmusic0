@@ -47,6 +47,7 @@ pytz
 pytube
 py-tgcalls==0.9.7
 pyyaml==6.0.1
+py-yt-search
 qrcode
 requests
 SafoneAPI
