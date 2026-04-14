@@ -1,9 +1,8 @@
 aiofiles
 aiohttp
 apscheduler
-asyncio
 bard
-bing_image_downloader 
+bing_image_downloader
 beautifulsoup4
 bs4
 cloudscraper
@@ -19,11 +18,11 @@ gpytranslate
 gtts
 hachoir
 heroku3
-httpx==0.24.1
+httpx==0.27.1
 img2pdf
 instaloader
 lexica-api
-motor 
+motor
 numpy<2.0.0
 openai==0.28.0
 opencv-python
@@ -36,21 +35,17 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-# pyrogram==2.0.106
-git+https://github.com/KurimuzonAkuma/pyrogram.git
+pyrogram==2.0.106
+pytgcalls==3.0.0.dev22
 python-dotenv
-python-telegram-bot==22.2
 python-whois
 pyshorteners
 pyttsx3
 pytz
 pytube
-py-tgcalls==0.9.7
 pyyaml==6.0.1
-py-yt-search
 qrcode
 requests
-SafoneAPI
 search_engine_parser
 speedtest-cli
 SpeechRecognition
@@ -60,6 +55,5 @@ tgcrypto
 unidecode
 wget
 yt-dlp
-youtube-search
-youtube-search-python
+youtube-search-python==1.6.6
 flask
