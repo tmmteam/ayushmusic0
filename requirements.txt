@@ -38,6 +38,7 @@ pykeyboard
 pyrogram==2.0.106
 pytgcalls==3.0.0.dev22
 python-dotenv
+python-telegram-bot==22.2
 python-whois
 pyshorteners
 pyttsx3
